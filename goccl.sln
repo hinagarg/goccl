@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Project", "1. Project", "{6942a737-cb72-4e75-8d48-40852a5e43f2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Feature", "2. Feature", "{26107705-a452-4a3f-8d0b-0d4b87e00eaa}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Foundation", "3. Foundation", "{9eda79f3-c7d3-4772-abd4-3982ed6c6a1e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		always|Any CPU = always|Any CPU
+		always|x64 = always|x64
+		ci|Any CPU = ci|Any CPU
+		ci|x64 = ci|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.always|Any CPU.ActiveCfg = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.always|Any CPU.Build.0 = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.always|x64.ActiveCfg = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.always|x64.Build.0 = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.ci|Any CPU.ActiveCfg = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.ci|Any CPU.Build.0 = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.ci|x64.ActiveCfg = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.ci|x64.Build.0 = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.Debug|x64.Build.0 = Debug|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.Release|x64.ActiveCfg = Release|Any CPU
+		{737b8a4a-23e4-4a89-b757-9a6b7faff1e4}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
